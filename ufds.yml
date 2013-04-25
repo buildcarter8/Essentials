@@ -1,0 +1,2 @@
+#Essentials uses UFDS (unneeded file deletion system) to clean the project.
+enable=true

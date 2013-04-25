@@ -6,6 +6,7 @@ version: ${build.number}
 website: http://tiny.cc/EssentialsWiki
 description: Provides an essential, core set of commands for Bukkit.
 authors: ["Essentials Team", "http://contributors.ess3.net"]
+ufds: on
 commands:
   afk:
     description: Marks you as away-from-keyboard.
